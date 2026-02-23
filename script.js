@@ -327,7 +327,7 @@ function initDestCards() {
     china: {
       title: 'China Destinations',
       places: [
-        { name: 'Beijing', desc: 'Capital city, Great Wall & Forbidden City.', img:'./assets/images/beijing.jpg' },
+        { name: 'Beijing', desc: 'Capital city, Great Wall & Forbidden City.', img: './assets/images/beijing.jpg' },
         { name: 'Shanghai', desc: 'Modern skyline, The Bund & cultural sites.', img: './assets/images/shanghai.jpg' },
         { name: 'Xi\'an', desc: 'Terracotta Army & ancient capital.', img: 'https://images.unsplash.com/photo-1528164344705-47542687000d?w=400&q=80' },
         { name: 'Guilin', desc: 'Karst mountains & Li River cruises.', img: 'https://images.unsplash.com/photo-1528127269322-539801943592?w=400&q=80' },
@@ -468,4 +468,6 @@ function initDestCards() {
     }
   });
 }
+
+
 
