@@ -35,7 +35,7 @@ function initMobileNav() {
   const nav = document.querySelector('.nav');
   const navLinks = document.querySelectorAll('.nav__link');
 
-  if (!toggle || !nav) return;
+  if (!toggle || !nav) return; 
 
   toggle.addEventListener('click', () => {
     toggle.classList.toggle('active');
