@@ -191,12 +191,13 @@ select {
 }
 
 .logo__image {
-  width: 60px;   /* Adjust size as needed */
-  height: 60px;
+  width: 120px;   /* Adjust size as needed */
+  height: 100px;
   border-radius: 50%;
   object-fit: cover;
   background-repeat: no-repeat;
   background-position: center;
+  object-fit: contain;
   filter: drop-shadow(0 2px 4px rgba(0,0,0,0.15));
 }
 
