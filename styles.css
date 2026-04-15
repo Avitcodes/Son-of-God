@@ -191,8 +191,8 @@ select {
 }
 
 .logo__image {
-  width: 120px;   /* Adjust size as needed */
-  height: 120px;
+  width: 140px;   /* Adjust size as needed */
+  height: 140px;
   border-radius: 50%;
   object-fit: cover;
   background-repeat: no-repeat;
