@@ -209,6 +209,16 @@ select {
   color: var(--color-primary);
 }
 
+.logo__image2 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  /* object-fit: contain; */
+  background-repeat: no-repeat;
+  background-position: center;
+  /* object-fit: contain; */
+}
+
 
 /* .footer .logo__text {
   color: white;
